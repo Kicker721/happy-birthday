@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Happy Birthday</string>
+    <string name="congratulations">*поздравление*</string>
+
+    <string name="hello">Привет!</string>
+
+    <string name="question">Вопрос</string>
+    <string name="answer">Ответ</string>
+    <string name="what_a_number">А что это за число внизу экрана? Оно растёт…</string>
+    <string name="turn_sound_on">А ещё включи звук, если он выключен)</string>
+    <string name="press_me">Нажми меня</string>
+    <string name="try_again">Попробуй ещё раз)</string>
+
+    <plurals name="years">
+        <item quantity="one">%d год</item>
+        <item quantity="few">%d года</item>
+        <item quantity="many">%d лет</item>
+        <item quantity="other">%d лет</item>
+    </plurals>
+
+    <plurals name="days">
+        <item quantity="one">%d день</item>
+        <item quantity="few">%d дня</item>
+        <item quantity="many">%d дней</item>
+        <item quantity="other">%d дней</item>
+    </plurals>
+
+    <plurals name="hours">
+        <item quantity="one">%d час</item>
+        <item quantity="few">%d часа</item>
+        <item quantity="many">%d часов</item>
+        <item quantity="other">%d часов</item>
+    </plurals>
+
+    <plurals name="minutes">
+        <item quantity="one">%d минута</item>
+        <item quantity="few">%d минуты</item>
+        <item quantity="many">%d минут</item>
+        <item quantity="other">%d минут</item>
+    </plurals>
+
+    <plurals name="seconds">
+        <item quantity="one">%d секунда</item>
+        <item quantity="few">%d секунды</item>
+        <item quantity="many">%d секунд</item>
+        <item quantity="other">%d секунд</item>
+    </plurals>
+
+</resources>
